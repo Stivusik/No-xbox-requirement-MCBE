@@ -1,4 +1,5 @@
 #Unstable
+# If testing is going wrong, try 31 F6 instead of 90 90
 
 ~~~~~
 
