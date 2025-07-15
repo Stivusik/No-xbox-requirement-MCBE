@@ -4,13 +4,13 @@
 
 1.2.0.81 - 1.2.1.1:
 Original: 81 46 3B 9C 00 2C 00 F0 A3 80 DF F8 74 0E 21 1D
-Patched: 4F F0 01 09 00 2C 00 F0 A3 80 DF F8 74 0E 21 1D
+Patched: 4F F0 01 09 00 2C 00 F0 A3 80 DF F8 74 0E 21 1D #Unstable
 
 ~~~~~
 
 1.2.2.3 - 1.2.11.4:
 Original: 81 46 3B 9C 00 2C 00 F0 A1 80 DF F8 70 0E 21 1D
-Patched: 4F F0 01 09 00 2C 00 F0 A1 80 DF F8 70 0E 21 1D
+Patched: 4F F0 01 09 00 2C 00 F0 A1 80 DF F8 70 0E 21 1D #Unstable
 
 ~~~~~
 
