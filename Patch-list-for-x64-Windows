@@ -1,0 +1,10 @@
+{
+            "title": "Patch to remove new play screen and xbox requirement to play on servers",
+            "patches": [
+                "0x405118 >> 00 >> 01",
+                "0x7A3B5B4 >> 6E >> 65",
+                "0x7A3B5CC >> 6E >> 65",
+                "0x7A3B65C >> 6E >> 65",
+                "0x7A3B674 >> 6E >> 65"
+            ]
+        }
