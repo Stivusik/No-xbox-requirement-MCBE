@@ -44,14 +44,16 @@ Patched: 01 24 34 9D 00 2D 00 F0 98 80 DF F8 14 0E 29 1D
 
 ~~~~~
 
+1.11.0.23 - 1.12.1.1:
+Original: 04 46 34 9D 00 2D 00 F0 98 80 DF F8 10 0E 29 1D
+Patched: 01 24 34 9D 00 2D 00 F0 98 80 DF F8 10 0E 29 1D
+
+~~~~~
+
 1.21.94:
 0x213E03C >> 6E >> 65 /*! To disable new play screen */
 0x2149C6C >> 6E >> 65 /*! To disable new play screen */
 0x2149C84 >> 6E >> 65 /*! To disable new play screen */
 0x216F614 >> 6E >> 65 /*! To disable new play screen */
 0x3CA6690 >> 00 >> 01
-
-1.11.0.23 - 1.12.1.1:
-Original: 04 46 34 9D 00 2D 00 F0 98 80 DF F8 10 0E 29 1D
-Patched: 01 24 34 9D 00 2D 00 F0 98 80 DF F8 10 0E 29 1D
 
