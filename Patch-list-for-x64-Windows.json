@@ -2,7 +2,7 @@
     "path": "Minecraft.Windows.exe",
     "switches": [
         {
-            "title": "Patch to remove new play screen and xbox requirement to play on servers. 1.21.93-1.21.94",
+            "title": "Patch to remove new play screen and xbox requirement to play on servers. 1.21.93-1.21.94", /*! Yes, same offsets, I can't belive in it also */
             "patches": [
                 "0x405118 >> 00 >> 01",
                 "0x7A3B5B4 >> 6E >> 65",
